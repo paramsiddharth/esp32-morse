@@ -1,0 +1,6 @@
+.vscode/
+/main
+/esp32-morse
+*.exe
+*env/
+*.done
